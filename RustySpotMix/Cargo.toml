@@ -1,7 +1,0 @@
-[package]
-name = "RustySpotMix"
-version = "0.1.0"
-authors = ["veer"]
-edition = "2018"
-
-[dependencies]
